@@ -1,3 +1,3 @@
 
 def apply(x):
-    return {"B": "updated: " + x}
+    return {"duck": "updated: " + x}
