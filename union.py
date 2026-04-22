@@ -1,3 +1,3 @@
 
 def apply(x, y):
-    return "[" + x + ", " + y + "]"
+    return {"column": "[" + x + ", " + y + "]"}
